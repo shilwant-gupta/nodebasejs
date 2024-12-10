@@ -1,0 +1,28 @@
+{
+  "name": "nodebase",
+  "version": "1.0.0",
+  "description": "Nodebase is node js lightweight backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilwant-gupta/nodebase.git"
+  },
+  "keywords": [
+    "node backend codebase"
+  ],
+  "author": "Shilwant Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shilwant-gupta/nodebase/issues"
+  },
+  "homepage": "https://github.com/shilwant-gupta/nodebase#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
